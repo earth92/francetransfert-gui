@@ -1,0 +1,19 @@
+.prompt-update-title-wrapper {
+
+}
+
+.prompt-update-content-wrapper {
+    .prompt-update-content-line {
+      p span {
+        display: block;
+        margin: 5px;
+      }
+    }
+}
+
+.prompt-update-actions-wrapper {
+    .btn-yes {
+        background-color: var(--janus-aot-asset-dark);
+        color: var(--janus-aot-white);
+    }
+}
